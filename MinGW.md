@@ -1,0 +1,1 @@
+For building Qt under Windows Xp operation system, we can use MinGW gcc. 
